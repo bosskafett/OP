@@ -1,0 +1,1 @@
+﻿class Classes.Jokes{	public var jokes:Object;		public function getRandomJoke()	{		var no = 0;		for (var i in this.jokes)		{			no++;		}		if(no == 0 || no == null || isNaN(no))			no = 5;		var joke = random(no) + 1;		return joke;	}	public function getJokeByID(id:Number)	{		return this.jokes[id];	}}

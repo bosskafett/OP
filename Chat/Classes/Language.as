@@ -1,0 +1,1 @@
+﻿class Classes.Language {	public var lang = "en";	public var strings:Object;		public function getString(id:String) {		return this.strings[this.lang][id];	}	public function setLanguage(id:String) {		if(id == "en" || id == "es" || id == "de")			this.lang = id;		else			this.lang = "en";	}	public function getLanguage() {		return this.lang;	}}

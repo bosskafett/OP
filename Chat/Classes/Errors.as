@@ -1,0 +1,1 @@
+﻿class Classes.Errors {	public var errors:Object;		public function getError(id:Number)	{		return this.errors[id];	}}

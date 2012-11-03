@@ -1,0 +1,51 @@
+Welcome to the unfinished OpenPenguins.
+
+I'm sorry I wasn't able to finish this off by now, I kind of lost motivation as everyone does at a certain point.
+
+Hopefully I've created enough to help you on your way to becoming a better Flash Game developer.
+
+You can use this project in whatever way you want.
+
+============
+Edit language and server data in:
+Include/configuration.as
+
+Edit the client receive data model
+Include/server_response.as
+
+Information/ includes all the data that the game will use to apply to the classes.
+
+Features:
+Penguin Waddle
+Penguin Clothes
+Penguin Colours
+Player-cards
+Simple UI
+Inventory
+Chat
+Actions
+Emotes
+Jokes
+Mail Alerts
+
+To be completed (at a later date):
+Mail
+Buddies
+Igloos/Rooms
+Games
+Additional features such as Stamps.
+
+Good at ActionScript? See if you can improve the project.
+NOTE: this project has not been left mostly in-complete because I wasn't able to finish the remaining features due to a lack of knowledge, I have done all of the above before in a previous project that I never released. (Zingies)
+============
+
+============
+Socket Server
+
+A simple PHP socket was attached in this release, this may be modified to a different language.
+============
+
+Happy Coding,
+
+~ Sauron
+www.rile5.com
